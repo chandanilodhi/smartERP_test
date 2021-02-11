@@ -1,4 +1,4 @@
-# smartERP_test App
+# SmartERP Test App
 ###To run 
 - step-1: clone the repo. 
 - Step-2: npm i 
